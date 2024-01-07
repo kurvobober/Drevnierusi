@@ -1,0 +1,9 @@
+@font-face {
+	font-family: 'Russian Land Cyrillic';
+	src: url('./fonts/russian_land_cyrillic.eot'); /* IE 9 Compatibility Mode */
+	src: url('./fonts/russian_land_cyrillic.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('./fonts/russian_land_cyrillic.woff2') format('woff2'), /* Super Modern Browsers */
+		url('./fonts/russian_land_cyrillic.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('./fonts/russian_land_cyrillic.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('./fonts/russian_land_cyrillic.svg#russian_land_cyrillic') format('svg'); /* Chrome < 4, Legacy iOS */
+}
